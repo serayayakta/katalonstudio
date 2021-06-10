@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>search and browse</name>
+   <name>9 navigate to kurumsal</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>afbef729-c6d4-4869-8b29-92abea997b00</testCaseGuid>
+   <testCaseGuid>d9059da2-a12d-404a-9aad-64986be17eb5</testCaseGuid>
 </TestCaseEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>cimer</name>
+   <name>2 Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b9420694-f616-466b-881c-bbabf5ec66db</testCaseGuid>
+   <testCaseGuid>0b037eb7-8766-4edf-80f1-49e29b652776</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Prof. Dr. Fahrettin ALTUN_ui-instagram</name>
+   <tag></tag>
+   <elementGuidId>7327dc23-9eb1-4851-ace8-64ab31b04bb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/div/div/div/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.social.social-instagram.ml-2 > i.ui-instagram</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-instagram</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;card col-md-12 p-3&quot;]/div[@class=&quot;row row-20&quot;]/div[@class=&quot;col-md-4 border-right&quot;]/div[@class=&quot;card-block text-center&quot;]/div[@class=&quot;socials mt-0 justify-content-center&quot;]/a[@class=&quot;social social-instagram ml-2&quot;]/i[@class=&quot;ui-instagram&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div/div/div/div/a[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

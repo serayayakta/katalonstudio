@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Giri Yap</name>
+   <name>a_Insider</name>
    <tag></tag>
-   <elementGuidId>4f74335f-2747-469a-9130-9fda59f56ddb</elementGuidId>
+   <elementGuidId>fe1fe58d-5086-4c78-84df-6dfe019051b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#dropdownMenuLink</value>
+         <value>h2.fs-body2.mb4 > a.s-link</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='dropdownMenuLink']</value>
+         <value>//div[@id='content']/div[2]/div/div/div/div/div/div[3]/div[2]/h2/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,148 +26,92 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>myFunction()</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropbtn dropdown-toggle sp-custom-c1877-1</value>
+      <value>s-link</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:;</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>dropdownMenuLink</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
-      <type>Main</type>
-      <value>dropdown</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-haspopup</name>
-      <type>Main</type>
-      <value>true</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
-      <type>Main</type>
-      <value>true</value>
+      <value>/jobs/companies/insider?c=MDrSseRIuUvBQ74s&amp;q=insider&amp;_=1623415491648</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Giriş Yap</value>
+      <value>Insider</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dropdownMenuLink&quot;)</value>
+      <value>id(&quot;content&quot;)/div[@class=&quot;search-container js-search-container&quot;]/div[@class=&quot;grid fd-row&quot;]/div[@class=&quot;grid--cell fl1&quot;]/div[@class=&quot;js-search-results flush-left&quot;]/div[@class=&quot;company-list&quot;]/div[@class=&quot;dismissable-company -company ps-relative js-dismiss-overlay-container p24 pr32 bb bc-black-100&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid--cell fl1 text mb0&quot;]/h2[@class=&quot;fs-body2 mb4&quot;]/a[@class=&quot;s-link&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//a[@id='dropdownMenuLink']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='header-content']/div[4]/div/div[2]/a</value>
+      <value>//div[@id='content']/div[2]/div/div/div/div/div/div[3]/div[2]/h2/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Giriş Yap')]</value>
+      <value>//a[contains(text(),'Insider')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favori Listem'])[2]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::a[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kampanyalar'])[2]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply filters'])[1]/following::a[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giriş Yap'])[2]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kâğıthane; İstanbul'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üye Ol'])[2]/preceding::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertising Technology, Machine Learning, Marketing Software'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Giriş Yap']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Insider']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'javascript:;')]</value>
+      <value>(//a[contains(@href, '/jobs/companies/insider?c=MDrSseRIuUvBQ74s&amp;q=insider&amp;_=1623415491648')])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div[2]/a</value>
+      <value>//h2/a</value>
    </webElementXpaths>
 </WebElementEntity>

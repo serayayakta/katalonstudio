@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Giri Yap</name>
+   <name>a_SEPETE EKLE</name>
    <tag></tag>
-   <elementGuidId>4f74335f-2747-469a-9130-9fda59f56ddb</elementGuidId>
+   <elementGuidId>e627947d-accc-4755-897b-2486934384b2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#dropdownMenuLink</value>
+         <value>a.btn.yellow.quickAddToCart</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='dropdownMenuLink']</value>
+         <value>//a[@onclick=&quot;AddToBasket(847405);OnVisilabsLoaded_AddToBasket('847405', '17,5');&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,27 +24,6 @@
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>myFunction()</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dropbtn dropdown-toggle sp-custom-c1877-1</value>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
@@ -54,120 +33,106 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>class</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>dropdownMenuLink</value>
+      <value>btn yellow quickAddToCart</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>variationid</name>
       <type>Main</type>
-      <value>dropdown</value>
+      <value>847405</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-haspopup</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>true</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
-      <type>Main</type>
-      <value>true</value>
+      <value>AddToBasket(847405);OnVisilabsLoaded_AddToBasket('847405', '17,5');</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Giriş Yap</value>
+      <value>SEPETE EKLE</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dropdownMenuLink&quot;)</value>
+      <value>id(&quot;facetProducts&quot;)/section[@class=&quot;shelf&quot;]/div[@class=&quot;no-margin productListNewBox boxes books clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-6-product catalog-list-carousel itemlittleProduct datalayer-active&quot;]/div[@class=&quot;item product-box-alternative&quot;]/div[@class=&quot;product-box-alternative product-box productListNewBox cart-product-box&quot;]/div[@class=&quot;btn-container&quot;]/a[@class=&quot;btn yellow quickAddToCart&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='dropdownMenuLink']</value>
+      <value>//a[@onclick=&quot;AddToBasket(847405);OnVisilabsLoaded_AddToBasket('847405', '17,5');&quot;]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='header-content']/div[4]/div/div[2]/a</value>
+      <value>//div[@id='facetProducts']/section/div/div/div/div/div/div[2]/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Giriş Yap')]</value>
+      <value>//a[contains(text(),'SEPETE EKLE')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favori Listem'])[2]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%50'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kampanyalar'])[2]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='En Kitap'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giriş Yap'])[2]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutuk'])[2]/preceding::a[7]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Üye Ol'])[2]/preceding::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mustafa Kemal A...'])[2]/preceding::a[8]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Giriş Yap']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='SEPETE EKLE']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'javascript:;')]</value>
+      <value>(//a[contains(@href, 'javascript:;')])[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div[2]/a</value>
+      <value>//section/div/div/div/div/div/div[2]/a</value>
    </webElementXpaths>
 </WebElementEntity>

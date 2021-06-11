@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home_ps-relative</name>
+   <tag></tag>
+   <elementGuidId>774eab84-74bd-4bbf-a1ee-0e0de5e2f97d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ps-relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps-relative</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html__responsive html__unpinned-leftnav html__fixed-top-bar&quot;]/body[@class=&quot;home-page unified-theme&quot;]/header[@class=&quot;top-bar js-top-bar top-bar__network&quot;]/div[@class=&quot;wmx12 mx-auto grid ai-center h100&quot;]/div[@class=&quot;-main grid--cell&quot;]/a[@class=&quot;left-sidebar-toggle p0 ai-center jc-center js-left-sidebar-toggle&quot;]/span[@class=&quot;ps-relative&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+   </webElementXpaths>
+</WebElementEntity>
